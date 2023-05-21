@@ -1,4 +1,4 @@
-# FROD
+# MFIOD
 The code and dataset for paper "Fusing multi-scale fuzzy information to detect outliers".
 
 ## Datasets
